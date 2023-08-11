@@ -2,9 +2,9 @@
   "name": "nodejs-proxy",
   "version": "1.0.0",
   "description": "A simple Node.js proxy server",
-  "main": "index.js", // Assuming your main script is named "proxy.js"
+  "main": "./Proxy/index.js",
   "scripts": {
-    "start": "node index.js" // Adjust the script name accordingly
+    "start": "node ./Proxy/index.js"
   },
   "author": "Your Name",
   "license": "ISC",
